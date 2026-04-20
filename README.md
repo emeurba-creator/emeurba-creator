@@ -10,7 +10,7 @@ Mi nombre es Eduardo Urbano y soy estudiante de Ingeniería Civil en Informátic
 ✨ Creando proyectos y aprendiendo programación paso a paso<br>
 📚 Actualmente estoy aprendiendo desarrollo web, bases de datos y programación<br>
 🎯 Mi objetivo es seguir mejorando como desarrollador y crear proyectos útiles e innovadores<br>
-🎲 Dato curioso: me interesa combinar tecnología con ideas que ayuden a las personas
+🎲 Dato curioso: me encanta jugar y programar videojuegos
 </p>
 
 <h2 align="left">Tecnologías que uso</h2>
